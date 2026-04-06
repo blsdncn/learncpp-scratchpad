@@ -11,7 +11,7 @@ This repository is for learning C++ while working through LearnCpp. Optimize for
 
 ## Codebase Shape
 
-- `ch0`, `ch1`, `ch2`: chapter-based practice and notes-in-code from LearnCpp.
+- `ch0`, `ch1`, ..., `chN`: chapter-based practice and notes-in-code from LearnCpp.
 - `playin-around/`: scratch space for quick experiments.
 - Most files are small standalone `.cpp` programs.
 - Structure is intentionally loose and may change as ideas evolve through learning.
